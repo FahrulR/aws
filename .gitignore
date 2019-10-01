@@ -1,0 +1,5 @@
+.env
+node_modules
+nodemon.json
+fahrulr-aws.perm
+fahrulr-aws.ppk
